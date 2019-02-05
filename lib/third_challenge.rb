@@ -49,7 +49,6 @@ def third_challenge
           attitude: "worried"
           }
         ]
-   
    }
   }
 
